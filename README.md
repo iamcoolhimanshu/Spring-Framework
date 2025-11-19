@@ -23,7 +23,7 @@ This project helps beginners understand how Spring works without the complexity 
 | **Java 17 | Core language |
 | **Spring Framework (Core + Context)** | Dependency Injection |
 | **Maven / Gradle** | Build tool |
-| **IntelliJ | IDE |
+| IntelliJ | IDE |
 
 ---
 
